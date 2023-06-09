@@ -1,0 +1,3265 @@
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+}
+.select.custom_Select_create {
+  padding: 5px;
+}
+.heading.mid_heading {
+  padding: 15px 0 0;
+}
+.join {
+  width: 90%;
+  text-align: left;
+  padding-top: 1.3em;
+  padding-left: 2em;
+  font-size: 20px;
+  color: #1c5753;
+  font-weight: 600;
+}
+.heading > h4 {
+  font-size: 17px;
+  color: #000;
+  font-family: "SourceSansProSemiBold";
+  border-bottom: 1px solid #020202;
+  padding-bottom: 6px;
+  margin-bottom: 20px;
+  width: fit-content;
+}
+a.bar-code i {
+  font-size: 22px !important;
+  color: #0c9287 !important;
+}
+.s-hidden {
+  visibility: hidden;
+  padding-right: 10px;
+}
+.other_txt.lab_table_txt {
+  width: 50%;
+  border-bottom-color: #c5c4c4;
+}
+.select {
+  border-radius: 0.25em;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  font: normal 11px/22px Arial, Sans-Serif;
+  color: black;
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 10px;
+}
+.styledSelect {
+  font-size: 13px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  padding: 10px;
+  font-weight: bold;
+}
+form.claim_frm {
+  padding: 30px 0;
+}
+.styledSelect:after {
+  content: "";
+  width: 0;
+  height: 0;
+  border: 5px solid transparent;
+  border-color: black transparent transparent transparent;
+  position: absolute;
+  top: 20px;
+  right: 6px;
+}
+.styledSelect:active,
+.styledSelect.active {
+  background-color: #eee;
+}
+.options {
+  max-height: 200px;
+  overflow: auto;
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: 0;
+  z-index: 999;
+  margin: 0 0;
+  padding: 0 0;
+  list-style: none;
+  border: 1px solid #ccc;
+  background-color: white;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+.options li {
+  margin: 0 0;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+.options li:hover {
+  background-color: #39f;
+  color: white;
+}
+button.btn.btn-default.btn-sm.dropdown-toggle.clian-service {
+  background: #158279;
+  color: #fff;
+  padding: 0.5em 10em;
+  float: left;
+  margin: 15px 0;
+}
+ul.dropdown-menu.emergancy_dm.claim_tab {
+  position: absolute !important;
+  top: 3em !important;
+  transform: none !important;
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+  padding: 15px 0;
+  left: 1% !important;
+  right: 0px !important;
+  width: 100%;
+  max-width: 30%;
+}
+ul.dropdown-menu.emergancy_dm.claim_tab > li:hover {
+  background-color: #158279;
+  color: #fff;
+}
+.dropdown-menu.show {
+  display: block;
+}
+.form-control.nurse-input.comment_area.my_ares {
+  height: 100px;
+}
+.search_dia_in.my_in input {
+  padding: 0 1em !important;
+}
+.ad_doc ul {
+  list-style: decimal;
+  color: #158279;
+  line-height: 2.1;
+  font-size: 15px;
+  padding-left: 1.5em;
+}
+.other_txt.gen_lab {
+  border: 0;
+}
+button.search_btn_dia.traet_img img {
+  width: 15px;
+}
+input.other_txt1.treat_txt {
+  width: 20%;
+}
+button.search_btn_dia.my_img {
+  padding: 1px 1em;
+}
+.row.unit_row {
+  padding: 30px 0 1px;
+}
+button.search_btn_dia.traet_img {
+  padding: 21px 23px;
+}
+label.nurse-form-label.select_ph {
+  background: #158279;
+  color: #fff;
+  padding: 9px 37px;
+  border-radius: 0.25em;
+  font-weight: 400;
+  margin: 25px 0 15px;
+}
+.nurse_input.unit_input {
+  width: 50%;
+}
+.save-btn.dia_fav_btn.treat_fav {
+  padding: 1em 8em 0 0;
+}
+.nurse_input.pre_ans_notes.new_add {
+  width: 50%;
+}
+.save-btn.dia_fav_btn.btn2 {
+  padding-top: 10px;
+}
+.row.inner_rs {
+  margin: 0;
+}
+.chief_part {
+  margin: 0px 0px;
+  background: #f1f7f6;
+}
+.chief_tab.chief_size.consent_frm1 {
+  min-width: 1500px;
+}
+.lab_in {
+  padding-top: 15px;
+}
+.chief_tik.bowel_ch {
+  width: 50%;
+  float: left;
+  padding-left: 15px;
+}
+.sidebar-mini.sidebar-collapse .dsticky.vital_nurse.fixed {
+  top: 92px;
+}
+.nurse_input.past_input.systemic_in .other_txt {
+  margin-left: 1em;
+}
+.nurse_row.weight_row.other_new {
+  padding: 10px;
+}
+.table-wrapper.vaccines_table {
+  padding: 0;
+}
+td.vac_notes {
+  text-align: left;
+  width: 40%;
+  padding: 10px 15px !important;
+  font-size: 13px;
+}
+.Stridor1 {
+  width: auto;
+  float: left;
+}
+.chief_start_head {
+  margin: 10px 20px;
+  background: #f1f7f6;
+  padding: 0 0 15px 0;
+}
+.fam_inner {
+  padding-top: 15px;
+}
+.inner_drink {
+  padding-left: 30px;
+}
+.nurse_input.other_in.imp_nur {
+  width: 25%;
+  font-size: 13px;
+}
+.chief_start_head .header_frm_nurse1 {
+  padding: 0 15px;
+}
+.chief_header h2 {
+  font-size: 17px;
+  color: #313131;
+  padding: 10px 15px;
+  position: relative;
+  border-bottom: 1px solid #dadada;
+  display: none;
+}
+.col-md-12.save-btn.chief_save {
+  padding: 17px 20px;
+  text-align: center;
+}
+.chief_frm {
+  margin: 0;
+}
+ul.ks-cboxtags.chief_check {
+  margin: 10px;
+  background: transparent;
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+}
+.row.chief_check {
+  padding: 15px 20px 0;
+}
+.chief_tik [type="checkbox"]:checked,
+.chief_tik [type="checkbox"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+}
+.chief_tik [type="checkbox"]:checked + label,
+.chief_tik [type="checkbox"]:not(:checked) + label {
+  position: relative;
+  padding-left: 28px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #666;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+.chief_tik [type="checkbox"]:checked + label:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #ddd;
+  background: #158279;
+  border-color: #158279;
+  border-radius: 0.25em;
+}
+
+.chief_tik [type="checkbox"]:not(:checked) + label:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #c5c5c5;
+  background: #fff;
+  border-radius: 0.25em;
+}
+.chief_tik [type="checkbox"]:checked + label:after,
+.chief_tik [type="checkbox"]:not(:checked) + label:after {
+  content: "\2714";
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  color: #fff;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.chief_tik [type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+.chief_tik [type="checkbox"]:checked + label:after {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.chief_tik.inner {
+  width: 100%;
+  padding-left: 10px;
+  max-width: 100%;
+}
+
+.slider.slider-horizontal {
+  width: 100%;
+}
+.slider-selection {
+  background-image: linear-gradient(to bottom, #44cbc0 0, #44cbc0 100%);
+}
+.slider-handle {
+  border: 6px solid #44cbc0;
+  background-color: #fbfffe;
+  background-image: none;
+}
+.slider-track-high {
+  background: #d5e8e7;
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+}
+.slider .tooltip-inner {
+  white-space: nowrap;
+  max-width: none;
+}
+.tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.tooltip-inner {
+  max-width: 200px;
+  padding: 3px 8px;
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  border-radius: 4px;
+}
+h2.range_label {
+  padding: 10px 0;
+  margin: 0 0;
+  background: #44cbc0;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+}
+.range_label {
+  padding: 10px 8rem;
+  margin: 0 0;
+  background: #44cbc0;
+  color: #fff;
+}
+.nurse_input.doctor_pulse {
+  width: 50%;
+  padding: 0;
+  margin: 0;
+}
+.do_vi_head h3 {
+  font-size: 16px;
+  color: #000;
+  padding: 10px 0 6px;
+  position: relative;
+}
+.do_vi_head h3:after {
+  position: absolute;
+  content: "";
+  width: 25px;
+  height: 2px;
+  background: #44cbc0;
+  bottom: 0;
+  left: 3px;
+}
+.doct_portal:last-child {
+  margin-bottom: 15px;
+}
+.doctor_vi {
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+  background: #fbfffe;
+  padding: 10px 15px;
+  margin: 0px 0 10px;
+}
+.doct_vi {
+  width: 32.2%;
+  cursor: pointer;
+}
+.quantity.doc_qu input {
+  width: 60%;
+}
+.pulse_doc {
+  padding-top: 2rem;
+  padding-bottom: 15px;
+}
+.do_vi_head h3 span {
+  font-size: 11px;
+  color: #fbfffe;
+  font-weight: normal;
+  margin-left: 15px;
+  background: #44cbc0;
+  padding: 5px;
+}
+.nurse_input.lst {
+  width: 16%;
+}
+@-webkit-keyframes blinker {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.5;
+  }
+}
+.blink {
+  text-decoration: blink;
+  -webkit-animation-name: blinker;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-direction: alternate;
+  color: #f00;
+  font-size: 12px;
+}
+.ac {
+  background-color: #f1f6f7;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
+.past_pe {
+  padding: 11px 0;
+}
+.ac > .ac-q {
+  text-transform: capitalize;
+  font-size: 15px;
+  color: #111;
+  padding: 12px 30px 12px 0px;
+  margin: 0;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  position: relative;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.ac > .ac-a {
+  overflow: hidden;
+  visibility: hidden;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+.ac > .ac-a p {
+  font: 14px/1.5 "Arial", sans-serif;
+  color: #777;
+  margin: 0;
+  padding: 10px;
+}
+
+.ac.active > .ac-a {
+  visibility: visible;
+}
+
+.ac.active > .ac-q::after {
+  content: "\2013";
+}
+.pat_fe {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 10px;
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+  background: #fbfffe;
+}
+.nurse_input.past_input.female_apt {
+  width: 33%;
+}
+.nurse-form-label2 {
+  font-size: 13px;
+  color: #101010;
+}
+.fe_patient {
+  padding: 20px 0 0;
+}
+
+.quantity.bp_qu1 {
+  width: 20%;
+}
+.chief_tab {
+  margin: 16px 0px 0;
+  background: #fff;
+  border-bottom: 0;
+}
+.nav-tabs .nav-link.chief_nav.active {
+  color: #ffffff;
+  text-transform: capitalize;
+  background-color: #158279;
+  border-color: transparent transparent #f3f3f3;
+  border-bottom: 3px solid #44cbc0 !important;
+  font-size: 15px;
+  font-weight: 400;
+}
+.chief_com {
+  padding: 0 20px;
+}
+.sticky {
+  position: fixed;
+  top: 1.9rem;
+  width: 80.5%;
+  background: #f1f7f6;
+  z-index: 111;
+}
+.other_sticky.sticky {
+  top: 2.8rem;
+  position: fixed;
+  width: 80.5%;
+  background: #f1f7f6;
+  margin: 0 -20px;
+  z-index: 111;
+}
+.chief_tik [type="checkbox"]:checked + label {
+  color: #44cbc0;
+}
+.chief_tik [type="checkbox"]:not(:checked) + label:hover {
+  color: #158279;
+}
+.ad_save.dec_copy {
+  padding: 15px 0 0;
+}
+.ad_save.dec_copy button {
+  font-size: 14px;
+  padding: 5px 15px;
+}
+.main-heading.doc_head {
+  border-bottom: 0;
+}
+#myheader1 {
+  background: #f1f7f6;
+}
+.sticky + .chief_pro {
+  padding-top: 102px;
+}
+.sidebar-collapse .other_sticky.sticky {
+  width: 97%;
+}
+.sidebar-collapse .sticky {
+  width: 97%;
+}
+.sidebar-collapse .doc_sticky.sticky {
+  width: 97%;
+}
+.doc_sticky.sticky {
+  width: 80%;
+  top: 1.8rem;
+}
+.nurse_input.doc_input {
+  width: 22%;
+}
+.nurse_input.past_input.food_nur {
+  width: 45%;
+}
+.nurse_input.past_input {
+  width: 25%;
+}
+input.other_txt1.past_other {
+  width: 44%;
+}
+.nurse_input.check_tik1 {
+  width: 100%;
+}
+.form-group.venis_inner {
+  padding-left: 15px;
+}
+div#family {
+  padding: 10px 0;
+}
+
+label.table_label {
+  padding-left: 20px;
+}
+.custom_input {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background: transparent;
+  border-bottom: 1px solid #e6e6e6;
+  padding: 0 10px;
+}
+.cal_label {
+  display: inline-block !important;
+}
+.cal_radio {
+  width: 100% !important;
+  color: #5a5a5a;
+  position: relative;
+}
+.cal_label.space_lab {
+  padding: 0 !important;
+}
+label.cal_head {
+  color: #101010;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 15px 0;
+}
+.cal_in_head {
+  padding: 0 20px;
+  color: #101010;
+  font-size: 15px;
+  font-weight: 500;
+}
+label.cal_label.out_radio {
+  padding: 0;
+}
+#showyes_weight,
+#showyes_Exag,
+#showyes_Paralysis,
+#showyes_weight1,
+#showyes_weight2,
+#showyes_nip,
+#showyes_nip1,
+#showyes_nail2,
+#showyes_nail3,
+#showno_nail3,
+#showyes_nail4,
+#showyes_teeth,
+#showyes_Murmur,
+#showyes_Murmur1 {
+  display: none;
+  width: 100%;
+}
+#showyes_other,
+#showyes_nip0,
+#showyes_other1,
+#showyes_other2,
+#showyes_other3,
+#showyes_other4,
+#showyes_other04,
+#showyes_other5,
+#showyes_other05,
+#showyes_other6,
+#showyes_other06,
+#showyes_other7,
+#showyes_other8 {
+  display: none;
+  width: 100%;
+}
+#showyes_gu,
+#showyes_un,
+#showyes_un0,
+#showyes_un1,
+#showyes_un2,
+#showyes_un3,
+#showyes_un4,
+#showyes_there,
+#showyes_gu0,
+#showyes_breach,
+#showyes_gu1,
+#showyes_gu2,
+#showyes_roll,
+#showyes_gu3,
+#showyes_tone,
+#showyes_visual,
+#showyes_visual1,
+#showyes_visual2,
+#showyes_cns,
+#showyes_cns0,
+#showyes_cns1,
+#showyes_cns2,
+#showyes_cns3,
+#showyes_cns4,
+#showyes_cns5 {
+  display: none;
+}
+.weight_row {
+  padding: 0;
+}
+.nurse_input.sign_in {
+  width: 33.3% !important;
+  min-width: 33.33% !important;
+}
+input.other_txt1.vital_txt {
+  width: 20%;
+}
+.dia_btn.labor_btn {
+  padding-bottom: 20px;
+}
+.braech_in {
+  width: 100%;
+}
+.nurse_input.cns_other {
+  width: 100%;
+}
+.nurse_input.cns_inner {
+  width: 25%;
+}
+.nurse_input.mus_input {
+  width: 30%;
+}
+.other_sticky.diet_sticky {
+  top: 1.9rem;
+}
+.nav.nav-tabs.nav-fill.chief_tab.chief_size .nav-link {
+  width: 25%;
+}
+.nurse_input.full-width .other_txt1 {
+  width: 100%;
+  margin: 0;
+}
+.nav-link.chief_nav.fam_nav {
+  width: 50%;
+  text-transform: capitalize;
+}
+.nurse_input.cal_radio label {
+  width: auto !important;
+}
+.first_cal .col-md-6 {
+  padding: 0;
+}
+.nurse_input.mus_input {
+  width: 33.3%;
+}
+.nurse_input.gen_his {
+  width: 50%;
+}
+.nurse_input input[type="checkbox"]:checked + label {
+  color: #158279;
+}
+h2.water_head {
+  text-transform: capitalize;
+  font-size: 16px;
+  padding: 16px 0 5px;
+  color: #000;
+  position: relative;
+  margin-bottom: 15px;
+}
+h2.water_head:after {
+  content: "";
+  width: 39px;
+  height: 2px;
+  background: #44cbc0;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+}
+.nurse_input.gen_say {
+  width: 25%;
+}
+.nurse_input.hand_sub {
+  width: 25%;
+}
+.nurse_input.exam_op {
+  width: 33.33%;
+}
+.nurse_input.past_input .other_txt {
+  margin-left: 3em;
+}
+.nurse_input.full-width1 {
+  width: 50%;
+}
+.nurse_input.full-width1 .other_txt1 {
+  width: 100%;
+}
+.ad_save.diagnosis_head {
+  padding-top: 32px;
+}
+.search_dia {
+  width: 100%;
+  max-width: 100%;
+  margin: 20px 0;
+}
+.search_dia.form-group.nurse_mode {
+  padding: 36px;
+}
+.diag_input input[type="text"] {
+  padding: 10px 1em;
+  border-radius: 0.25em;
+  box-shadow: none;
+  border: 1px solid #d2d2d2;
+  background: transparent;
+  width: 80%;
+  display: inline;
+}
+.search_dia_in input[type="text"] {
+  display: inline-block;
+  float: left;
+  padding: 10px 0em;
+  border-bottom-left-radius: 0.25rem;
+  border-top-left-radius: 0.25rem;
+  box-shadow: none;
+  border: 1px solid #d2d2d2;
+  background: transparent;
+  width: 55%;
+}
+.search_dia_in input.last_pain {
+  width: 16%;
+  border-radius: 0;
+}
+.search_btn_dia {
+  padding: 9px 20px;
+  background: #44cbc0;
+  border: 0;
+  color: #fff;
+  text-transform: uppercase;
+  border-bottom-right-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  cursor: pointer;
+}
+#add-more {
+  text-align: center;
+}
+.form-group.add_input_tye {
+  width: 100%;
+  padding: 0 20px;
+}
+.dia_add_btn {
+  text-align: center;
+  padding: 10px 0;
+}
+#field input {
+  width: 80%;
+  padding: 10px 1em;
+  border-radius: 0.25em;
+  box-shadow: none;
+  border: 1px solid #d2d2d2;
+  box-shadow: unset;
+}
+.remove_btn {
+  text-align: right;
+  width: 80%;
+}
+.quantity.doc_qu.laber_quan input {
+  width: 22%;
+}
+input.other_txt.arom_txt {
+  width: 25%;
+}
+tr.drugs_tr {
+  background: #44cbc0;
+  color: #fff;
+  font-weight: lighter;
+}
+tr.tr_in:nth-child(odd) {
+  background: #fff;
+  color: #000;
+}
+.col-md-12.dia_btn.da_btn_teat {
+  padding: 13px;
+}
+.col-md-12.ready_erx {
+  margin-top: 15px;
+}
+button.btn.btn-primary.create_btn.ad_btn_save.treat_btn {
+  padding: 1em 5em;
+}
+.table-wrapper.treatment_table {
+  padding: 0;
+}
+tr.tr_in:nth-child(even) {
+  background: #f6fffe;
+  color: #000;
+}
+tr.drugs_tr th {
+  font-weight: normal;
+}
+.erx_btn {
+  margin-bottom: 20px;
+}
+button.genrate_btn.btn-danger.radius {
+  background: #dc3545;
+}
+button.genrate_btn {
+  width: auto;
+  padding: 0.6em 5em;
+  font-size: 16px;
+  box-shadow: none;
+  border: 0;
+  background: #44cbc0;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 0.25em;
+}
+ul.diagnosis_ul.treat_ul {
+  margin-top: 20px;
+}
+.remove-me {
+  background: none;
+  color: #f00;
+  border: solid 1px #f00;
+  border-radius: 30px;
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  margin-bottom: 15px;
+}
+.remove-me:hover {
+  color: #fff;
+  border: solid 1px #f00;
+  background: #f00;
+}
+.ad_save.diagnosis_head1 {
+  text-align: right;
+  padding-left: 15px;
+}
+.nurse_input.dis_table {
+  width: 90%;
+}
+.form-group.nurse_mode.advise_treat {
+  margin: 15px 0;
+}
+label.nurse_txt {
+  font-size: 15px;
+  color: #000;
+  font-weight: 500;
+  padding-right: 2em;
+}
+.nurse_file {
+  padding: 30px 0;
+}
+.nurse_input.dis_table input[type="checkbox"] + label:before {
+  width: 20px;
+  height: 20px;
+  font-size: 9px;
+}
+.form-control.nurse-input.comment_area:focus,
+.form-control.nurse-input.comment_area:active,
+.form-control.nurse-input.comment_area:hover {
+  outline: none;
+}
+.form-control.nurse-input.comment_area {
+  outline: none;
+  box-shadow: none;
+  height: 60px;
+  border-bottom: 1px solid #dadada;
+}
+ul.diagnosis_ul {
+  width: 100%;
+  float: left;
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+  background: #f8fbfa;
+  padding: 15px;
+}
+ul.diagnosis_ul li {
+  display: inline-block;
+  background: #dbeceb;
+  color: #000;
+  border-radius: 3px;
+  white-space: nowrap;
+  margin: 3px 7px 14px 0px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: all 0.2s;
+  cursor: pointer;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+.save-btn.dia_fav_btn {
+  float: right;
+}
+button.search_btn_dia_fav {
+  background: #3a8d86;
+  border: 0;
+  padding: 10px;
+  border-radius: 0.25em;
+  color: #fff;
+  cursor: pointer;
+}
+button.search_btn_dia_fav:hover {
+  background: #44cbc0;
+  color: #fff;
+}
+.sidebar-mini.sidebar-collapse .dsticky.fixed {
+  position: fixed;
+  top: 76px;
+  width: 94%;
+  z-index: 11;
+}
+.sidebar-mini .dsticky.fixed {
+  position: fixed;
+  top: 76px;
+  z-index: 11;
+  width: 77.5%;
+}
+.fileUpload {
+  position: relative;
+  overflow: hidden;
+}
+.nurse_input.dis_part {
+  width: 100%;
+  padding-left: 0;
+}
+.fileUpload input.upload {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.btn--browse {
+  border: 1px solid #44cbc0;
+  border-left: 0;
+  border-radius: 0 2px 2px 0;
+  background-color: #44cbc0;
+  color: #fff;
+  height: 42px;
+  padding: 10px 14px;
+}
+
+.f-input {
+  height: 42px;
+  background-color: transparent;
+  border: 1px solid #dadada;
+  width: 100%;
+  max-width: 400px;
+  float: left;
+  padding: 0 14px;
+  border-radius: 0.25em;
+}
+
+.chief_tik.create_cli {
+  padding: 15px 0 0 15px;
+}
+.chief_tik.create_cli [type="checkbox"]:not(:checked) + label {
+  font-size: 15px;
+}
+.chief_tik.create_cli [type="checkbox"]:checked + label {
+  font-size: 15px;
+}
+.control_btn.clinic_btn {
+  text-align: right;
+  padding: 0;
+}
+input#profile {
+  vertical-align: bottom;
+  padding: 0 0 0 13px;
+}
+
+/* 29/march/19 css */
+
+.rs_table tr {
+  width: 100%;
+  border-bottom: 1px solid #eeeeee;
+}
+.rs_table tr td {
+  padding: 15px 0em 4px;
+  border-right: 1px solid #eeeeee;
+}
+.nurse_input.rs_td {
+  width: 100%;
+}
+.table_head {
+  color: #101010;
+  padding-bottom: 10px;
+  font-size: 14px;
+  font-weight: 400;
+}
+table.table-responsive.rs_table {
+  background: #fbfffe;
+  width: 100%;
+  border: 1px solid #c1c1c1;
+  max-width: 60%;
+  table-layout: fixed;
+}
+table.table-responsive.rs_table tbody {
+  display: inline-table;
+  width: 100%;
+}
+.rs_table tr:nth-child(odd) {
+  background-color: #f0fffc;
+}
+.rs_table tr:nth-child(even) {
+  background-color: #fff;
+}
+.nurse_input.gen_his1 {
+  width: 100% !important;
+}
+.nurse_input.past_input .other_txt.blank_label {
+  margin-left: 0;
+}
+.nurse_input.pos_sys {
+  width: 33.3% !important;
+  min-width: 0 !important;
+}
+.row.ins_tab {
+  padding: 10px 0 0;
+}
+.check_tik {
+  width: 100%;
+  padding: 0 15px;
+  display: inherit;
+}
+span.msg_box.text-danger {
+  width: 100%;
+  display: block;
+  font-size: 13px;
+  padding-bottom: 12px;
+}
+.pal_exam2 {
+  padding-top: 15px;
+}
+input.other_txt1.screentxt {
+  width: 20%;
+  float: left;
+}
+.dia_btn {
+  width: 100%;
+  display: inline-block;
+  padding-top: 10px;
+}
+.nurse_input.cal_radio.scroll.pal_imput {
+  margin: 10px 20px;
+  padding: 15px 10px;
+  background: #fbfffe;
+  box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.09);
+}
+.nurse_input.cal_radio.scroll.pal_imput label {
+  padding: 16px 0 48px 20px !important;
+}
+.nav-fill.chief_tab.chief_size1 .nav-link {
+  width: 20%;
+}
+h5.water_head {
+  font-size: 15px;
+  color: #000;
+  padding: 5px 0 5px;
+  position: relative;
+}
+h5.water_head:after {
+  content: "";
+  width: 39px;
+  height: 2px;
+  background: #44cbc0;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+}
+.nav-tabs.nav-fill.chief_tab.chief_high .nav-link {
+  width: 16.5%;
+}
+.nurse_input.past_input1 {
+  width: 20%;
+}
+.auto_control {
+  width: 100%;
+  margin: 0 0 20px 10px;
+}
+.bp_mid.csn_mid {
+  color: #000;
+  font-size: 14px;
+  padding: 0;
+}
+.quantity.bp_qu.auto_num {
+  width: auto;
+  padding: 0 13px;
+}
+.nurse_input.rs_td.ot_in input[type="radio"]:checked ~ .check::before {
+  background: #000;
+}
+.nurse_input.rs_td.ot_in .check::before {
+  top: 1px;
+  left: 2px;
+}
+.nurse_input.rs_td.ot_in .check {
+  height: 17px;
+  width: 17px;
+}
+.nurse_input.rs_td.ot_in input[type="radio"]:checked ~ .check {
+  border: 3px solid #000;
+}
+.nurse_input.rs_td.ot_in input[type="radio"]:checked ~ label {
+  color: #000;
+}
+.nurse_input.rs_td.ot_int input[type="radio"]:checked ~ .check::before {
+  background: #000000;
+}
+.nurse_input.rs_td.ot_in .check {
+  border: 3px solid #333333;
+}
+.nurse_input.rs_td.ot_in label {
+  color: #333333;
+}
+.nurse_input.rs_td.ot_in {
+  text-align: left;
+}
+label.nurse_number.bp_drop {
+  width: auto;
+}
+.nurse_input.reflx_input {
+  width: 16%;
+}
+tr.cutom_tab {
+  text-align: center;
+}
+tr.vacc_table td {
+  border-right: 1px solid #000;
+}
+tr.cutom_tab1 th {
+  border-left: 1px solid #000;
+  color: #000;
+  font-weight: bold !important;
+  font-size: 16px;
+  padding: 10px 15px !important;
+  text-align: left;
+}
+tr.cutom_tab1 td {
+  border-left: 1px solid #000;
+}
+tr.cutom_tab1 {
+  text-align: left;
+  border-bottom: 1px solid #000 !important;
+}
+
+.nurse_input.score_note {
+  width: 100%;
+  padding-top: 20px;
+}
+.nurse_input.score_note label.nurse_other {
+  padding-left: 20px;
+}
+
+.score_note1 {
+  font-size: 11px;
+  color: #000;
+  padding-left: 18px;
+  padding-bottom: 20px;
+}
+.table-responsive thead {
+  background: #00a8b2 !important;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+}
+.table-responsive tbody tr td {
+  padding: 5px 0 5px 15px;
+  background: #ffffff;
+  border-bottom: 1px solid #dadada;
+  color: #5f5f5c;
+}
+.table-responsive tbody tr:nth-child(odd) {
+  background: #ffffff;
+  border-bottom: 1px solid #dadada;
+}
+
+.table-responsive tbody tr:nth-child(even) {
+  background: #efefef;
+  border-bottom: 1px solid #dadada;
+}
+.dsticky .chief_tab.chief_size .chief_nav.active,
+.dsticky .chief_tab.chief_size1 .chief_nav.active,
+.dsticky .chief_tab.chief_high .chief_nav.active {
+  background: #44cbc0;
+  border-bottom: 3px solid #158279 !important;
+}
+.dsticky .nav-link.chief_nav.fam_nav.active {
+  background: #44cbc0;
+  border-bottom: 3px solid #158279 !important;
+}
+.fav_list {
+  margin-top: 25px;
+  text-align: right;
+}
+.fav_list a {
+  background: #44cbc0;
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 0.25em;
+  font-weight: 400;
+}
+.form-control.nurse-input.date_input {
+  width: 60%;
+}
+.nurse_input.nurse_cried {
+  width: 100%;
+}
+.quantity.doc_qu.heart_rate input {
+  width: 25%;
+}
+input.other_txt1.crl_cm {
+  width: 35%;
+}
+.quantity.fundal_num input {
+  width: 10%;
+}
+input.form-control-nur.form-control.last_control_in {
+  width: 15%;
+}
+.last_lmp {
+  padding-top: 25px;
+}
+label.nurse_number.last_lp {
+  width: auto;
+  float: left;
+}
+table.table-responsive.rs_table.right_hypo {
+  max-width: 100%;
+  vertical-align: middle;
+}
+table.table-responsive.rs_table.right_hypo td {
+  padding: 20px 0;
+}
+.gyna_pst {
+  padding: 0 15px;
+}
+.nurse_row.weight_row.myDiv.imired_row {
+  padding-left: 14.5em;
+}
+.nurse_input.rs_td.vacc_td label {
+  color: #000;
+}
+.nurse_input.rs_td.vacc_td input[type="checkbox"] + label:before {
+  border: 2px solid #101010;
+}
+.nurse_input.rs_td.vacc_td input[type="checkbox"]:checked + label:before {
+  border: 2px solid #158279;
+}
+tr.vacc_table {
+  text-align: left;
+}
+td.action_list a {
+  padding-right: 10px;
+}
+
+label.certifi_txt {
+  padding: 0 5px;
+  margin-bottom: 0;
+  font-size: 13px;
+  color: #101010;
+  width: 100%;
+}
+input.certificate {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background: transparent;
+  border-bottom: 1px solid #b9b9b9;
+  padding: 0 10px;
+  height: 35px;
+  width: 25%;
+}
+.main-div.lab_dia {
+  padding: 0 20px 4em;
+}
+.form-group.table_btn .nurse_other {
+  color: #000;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.lab_dia_tab {
+  padding-top: 20px;
+}
+.test_name {
+  padding: 22px 23px 0;
+  font-size: 16px;
+  color: #101010;
+}
+.row.cer_part {
+  line-height: 2.8;
+  padding: 20px 10px 20px;
+}
+label.certifi_txt1 {
+  width: 35%;
+}
+textarea.dis_text {
+  width: 100%;
+  background: transparent;
+  border-radius: 0.25em;
+  border: 1px solid #dadada;
+  padding: 10px;
+}
+input.certificate1 {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background: transparent;
+  border-bottom: 1px solid #b9b9b9;
+  padding: 0 10px;
+  height: 35px;
+}
+.project-tab .nav-link.treat_erx {
+  width: 20%;
+  float: left;
+  color: #5f5f5c;
+  font-size: 15px;
+  font-weight: 500;
+  border-right: 1px solid #f1f1f1;
+  flex: 0 0 auto;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.treat_tab {
+  background: #fff;
+  margin: 16px 0px 0;
+  cursor: pointer;
+}
+.nav-tabs .nav-link.treat_erx.active {
+  color: #ffffff;
+  text-transform: capitalize;
+  background-color: #158279;
+  border-color: transparent transparent #f3f3f3;
+  border-bottom: 3px solid #44cbc0 !important;
+  font-size: 16px;
+  font-weight: 400;
+}
+.ad_save.diagnosis_head1 {
+  padding-top: 20px;
+}
+.table-wrapper.additional_tab {
+  padding: 0;
+}
+.add_table thead tr {
+  background: #44cbc0;
+  color: #fff;
+}
+.add_table thead tr th {
+  font-weight: 400;
+}
+.add_table {
+  border: 1px solid #dee2e6;
+}
+.add_table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+.add_table tbody tr td {
+  color: #101010;
+  font-size: 13px;
+}
+.add_table tbody tr:nth-child(even) {
+  background-color: #f1f7f6;
+}
+.add_table tbody td i {
+  font-size: 15px;
+  border-radius: 50%;
+  padding: 3px;
+  color: #44cbc0;
+  margin-bottom: 5px;
+}
+.search_dia_in.other input {
+  width: 82%;
+}
+.rate_controls {
+  width: 100%;
+  padding: 10px 0 0;
+}
+.add_notes_tab {
+  padding: 0 20px;
+}
+.inner_div {
+  padding: 20px 0 0;
+}
+.nav-link.chief_nav_notes {
+  width: 20%;
+  padding: 10px 0;
+}
+.nav-link.chief_nav_notes.active {
+  background-color: #158279;
+  color: #fff;
+}
+.project-tab.add_notes {
+  padding: 0 20px;
+}
+input.ipd_read {
+  background: transparent;
+  border: 0;
+  padding-left: 15px;
+}
+input.exterm_input {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  background: transparent;
+  border-bottom: 1px solid #dadada;
+  width: 40%;
+  padding: 0 10px;
+}
+.continue_label {
+  color: #101010;
+}
+.continue_part {
+  margin-bottom: 10px;
+}
+.form-group.nurse_mode.note_exterm {
+  padding: 20px 10px;
+}
+button.btn.contiune_btn {
+  font-size: 14px;
+  padding: 5px 15px;
+  background: #158279;
+  color: #fff;
+  margin-left: 20px;
+}
+
+table.emer_care.table-responsive {
+  display: inline-table;
+  width: 100%;
+  max-width: 75%;
+}
+td.care_in {
+  background: #d9ead3;
+}
+table.emer_care.table-responsive thead {
+  text-align: center;
+}
+table.emer_care.table-responsive tbody tr td {
+  text-align: left;
+  padding: 8px 0 8px 15px;
+}
+.nurse_input.rs_td.custom_radio input[type="radio"]:checked ~ label {
+  color: #f00;
+}
+.nurse_input.rs_td.custom_radio label {
+  margin-bottom: 0;
+  text-align: left;
+  padding: 0;
+}
+.nurse_input.rs_td.custom_radio input[type="radio"] {
+  position: absolute;
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.nurse_input.rs_td.custom_radio .check {
+  display: block;
+  position: absolute;
+  border: 3px solid #aaaaaa;
+  border-radius: 100%;
+  height: 16px;
+  width: 16px;
+  top: 4px;
+  left: 85%;
+  right: 20px;
+  z-index: 5;
+  transition: border 0.25s linear;
+  -webkit-transition: border 0.25s linear;
+}
+.nurse_input.rs_td.custom_radio:hover .check {
+  border: 5px solid #7b7b7b;
+}
+.nurse_input.rs_td.custom_radio .check::before {
+  display: block;
+  position: absolute;
+  content: "";
+  border-radius: 100%;
+  height: 8px;
+  width: 8px;
+  top: 1px;
+  left: 0;
+  right: 0px;
+  margin: auto;
+  transition: background 0.25s linear;
+  -webkit-transition: background 0.25s linear;
+}
+.nurse_input.rs_td.custom_radio input[type="radio"]:checked ~ .check {
+  border: 3px solid #f00;
+  z-index: 999;
+}
+.nurse_input.rs_td.custom_radio input[type="radio"]:checked ~ .check::before {
+  background: #f00;
+}
+.nurse_input.rs_td.custom_radio.oramge input[type="radio"]:checked ~ .check {
+  border: 3px solid #ff8303;
+  z-index: 999;
+}
+.nurse_input.rs_td.custom_radio.oramge
+  input[type="radio"]:checked
+  ~ .check::before {
+  background: #ff8303;
+}
+.nurse_input.rs_td.custom_radio.oramge input[type="radio"]:checked ~ label {
+  color: #ff8303;
+}
+.nurse_input.rs_td.custom_radio.yellow input[type="radio"]:checked ~ .check {
+  border: 3px solid #c99b15;
+  z-index: 999;
+}
+.nurse_input.rs_td.custom_radio.yellow
+  input[type="radio"]:checked
+  ~ .check::before {
+  background: #c99b15;
+}
+.nurse_input.rs_td.custom_radio.yellow input[type="radio"]:checked ~ label {
+  color: #c99b15;
+}
+.nurse_input.rs_td.custom_radio.green input[type="radio"]:checked ~ .check {
+  border: 3px solid #04c50a;
+  z-index: 999;
+}
+.nurse_input.rs_td.custom_radio.green
+  input[type="radio"]:checked
+  ~ .check::before {
+  background: #04c50a;
+}
+.nurse_input.rs_td.custom_radio.green input[type="radio"]:checked ~ label {
+  color: #04c50a;
+}
+.nurse_input.rs_td.custom_radio.blue input[type="radio"]:checked ~ .check {
+  border: 3px solid #0037ff;
+  z-index: 999;
+}
+.nurse_input.rs_td.custom_radio.blue
+  input[type="radio"]:checked
+  ~ .check::before {
+  background: #0037ff;
+}
+.nurse_input.rs_td.custom_radio.blue input[type="radio"]:checked ~ label {
+  color: #0037ff;
+}
+.nurse_input.care_nurse {
+  padding: 20px 0;
+}
+.nurse_per_inner.care_vital {
+  padding-bottom: 10px;
+}
+.care_doc {
+  padding: 20px 0 0;
+}
+.table-responsive.care_doc_table {
+  border: 1px solid #dadada;
+  display: inline-table;
+}
+.nurse_input.post_ans {
+  width: 100%;
+}
+.nurse_input.pre_ans_notes {
+  width: 100%;
+}
+.nurse_input.past_input .other_txt.check_in {
+  margin-left: 0;
+}
+label.certifi_txt1.financial {
+  width: auto;
+}
+input.certificate1.financial {
+  width: 40%;
+}
+tr.vacc_table.last_border {
+  border-bottom: 1px solid #000 !important;
+}
+td.vacc_in_table {
+  border-bottom: 1px solid #000;
+}
+td.vacc_in_table {
+  background: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+.nav .nav-link.chief_nav.consent_in {
+  width: auto !important;
+}
+.chief_tab.chief_size.consent_frm {
+  min-width: 2380px;
+}
+.other_sticky.doc_sticky.consent_over {
+  overflow: scroll;
+  overflow-y: hidden;
+}
+.nurse_input.consent_check {
+  width: 100%;
+}
+.consent_inner {
+  padding-bottom: 10px;
+}
+.nurse_input.consent_nurse {
+  width: 100%;
+  padding-bottom: 2em;
+}
+ul.consent_list li {
+  list-style: disc;
+  padding-left: 0;
+  color: #101010;
+  font-size: 13px;
+}
+ul.consent_list {
+  padding-left: 30px;
+}
+.nurse_input.certifi_txt1 {
+  width: 40%;
+}
+input.certificate.txt {
+  width: 55%;
+}
+label.nurse_number.laber_number {
+  width: auto;
+  float: left;
+}
+.row.controls.laber_upper {
+  padding-top: 25px;
+}
+.laber_stage {
+  padding: 20px 0 0;
+}
+.laber_systemic_in {
+  width: 100% !important;
+}
+.nurse_input.last_laber {
+  width: 68%;
+}
+.nurse_input.last_laber input.other_txt.big_line {
+  width: 40%;
+}
+label.nurse_other.nur.nabor_note {
+  width: 100%;
+}
+.nurse_input.pre_ans_notes1 {
+  width: 100%;
+}
+label.nurse-form-label.date_labor {
+  width: 30%;
+}
+.labor_div {
+  padding: 15px;
+}
+.nurse_input.add_nots1 {
+  width: 33.33%;
+}
+.nurse_input.gen_say.add_notes1 {
+  width: 50%;
+}
+.nav-tabs.nav-fill.chief_tab1.laber_note_tab {
+  overflow: hidden;
+  min-width: 100%;
+  width: 100%;
+}
+label.nurse-form-label.baby_label {
+  width: 100%;
+}
+input.other_txt1.baby_txt {
+  width: 45%;
+}
+label.nurse_number.baby_number {
+  width: auto;
+  float: left;
+}
+.row.baby_row {
+  padding-top: 20px;
+}
+.table-responsive.care_doc_table.baby_table {
+  margin: 0 0px;
+}
+.nurse_input.past_input.systemic_in.baby_ch {
+  width: 100%;
+}
+.nurse_input.bbay_input {
+  width: 33.33%;
+  min-width: 26% !important;
+}
+.nurse_input.past_input.his_last {
+  width: 33.33%;
+}
+.nurse_input.past_input.his_last .other_txt {
+  margin-left: 0;
+}
+.nurse_input.past_input.other_in1 {
+  width: 33.33%;
+}
+
+.project-tab.past_his {
+  padding: 0 20px;
+}
+.past_number {
+  padding: 15px 0 0;
+}
+.nurse_input.cal_radio.scroll.pal_imput label {
+  padding: 10px !important;
+}
+input.other_txt1.gns_txt {
+  width: 15%;
+}
+.quantity.doc_qu.heart_rate1 input {
+  width: 10%;
+}
+.dia_btn.nicu_btn {
+  display: inline-block;
+}
+span.bp_mid.rate_num {
+  font-size: 13px;
+  /* padding: 0 10px; */
+}
+.text-primary {
+  color: #158279 !important;
+}
+.clockpicker-popover .popover-content {
+  background-color: #158279 !important;
+  padding: 12px;
+}
+
+@media (max-width: 1150px) {
+  .nurse_input.female_apt {
+    width: 50%;
+  }
+  .nurse_input.imm_inner {
+    width: 25%;
+  }
+  .nurse_row.weight_row.myDiv.imired_row {
+    padding-left: 0em;
+  }
+  button.genrate_btn {
+    width: auto;
+    padding: 0.6em 4em;
+    font-size: 14px;
+  }
+  .table-responsive.care_doc_table {
+    display: block;
+  }
+}
+@media (max-width: 1000px) {
+  button.genrate_btn {
+    width: auto;
+    padding: 0.6em 2em;
+    font-size: 14px;
+  }
+  ul.dropdown-menu.emergancy_dm.claim_tab {
+    max-width: 40%;
+  }
+  .nurse_input.unit_input {
+    width: 100%;
+  }
+  .sidebar-collapse .other_sticky.sticky {
+    width: 96%;
+  }
+  .project-tab .nav-link {
+    width: 33.33%;
+    font-size: 14px;
+  }
+  .nurse_input.doc_input {
+    width: 35%;
+  }
+  .nurse_input.past_input {
+    width: 33%;
+  }
+  .nurse_input.mus_input {
+    width: 50%;
+  }
+  .search_dia {
+    max-width: 100%;
+  }
+  a.btn.btn-primary.create_btn.ad_btn_save {
+    margin-bottom: 10px !important;
+  }
+  table.emer_care.table-responsive {
+    max-width: 100%;
+  }
+  .chief_tab.chief_notes {
+    width: 100%;
+    overflow: scroll !important;
+    white-space: nowrap;
+    min-width: 1200px;
+    float: left;
+    height: auto;
+    position: relative;
+    display: -webkit-inline-box;
+  }
+  .sidebar-collapse .other_sticky.sticky {
+    width: 100%;
+    overflow: scroll;
+  }
+  .btn.btn-primary.create_btn {
+    width: auto;
+    padding: 10px 12px;
+  }
+  table.table-responsive.rs_table.right_hypo {
+    max-width: 100%;
+    vertical-align: middle;
+  }
+  label.nurse-form-label.date_labor {
+    width: 50%;
+  }
+  label.nurse_other.res_inter {
+    width: auto !important;
+  }
+}
+@media (max-width: 768px) {
+  button.btn.btn-default.btn-sm.dropdown-toggle.clian-service {
+    padding: 0.5em 7em;
+  }
+  .select.custom_Select_create {
+    padding: 4px;
+  }
+  .erx-table-search-field {
+    padding-left: 8px;
+  }
+  ul.dropdown-menu.emergancy_dm.claim_tab {
+    max-width: 75%;
+    left: 5% !important;
+  }
+  .add-chief,.prescribe-treatment{
+    font-size: 12px;
+  }
+  .list-group-item{
+    font-size: 12px;
+  }
+  .search-box-outer-treatment{
+    padding: 10px;
+  }
+  .project-tab .nav-link {
+    font-size: 11px;
+  }
+  .nurse_input.unit_input {
+    width: 50%;
+  }
+  .chief_part {
+    margin: 10px 0;
+  }
+  .pulse_doc {
+    padding-top: 0;
+  }
+  .chief_tab {
+    margin: 15px 0 0;
+  }
+  .ac {
+    margin: 10px 0;
+  }
+  .nurse_input.other_in.imp_nur {
+    width: 50%;
+  }
+  .chief_start_head {
+    margin: 10px 0;
+  }
+  .row.chief_check {
+    padding: 0 10px 0;
+  }
+
+  .other_sticky.sticky {
+    margin: 0 -10px;
+    width: 100%;
+  }
+  .nav-tabs .nav-link.chief_nav.active {
+    font-size: 11px;
+    font-weight: 300;
+  }
+  .sidebar-collapse .sticky {
+    width: 100%;
+  }
+  .sidebar-collapse .other_sticky.sticky {
+    width: 100%;
+    overflow: scroll;
+  }
+  .nurse_hospital {
+    padding: 0 10px 10px;
+  }
+  .hos_inner {
+    padding: 0;
+  }
+  .ad_save.dec_copy {
+    text-align: right;
+  }
+  .nurse_input.doc_input {
+    width: 50%;
+  }
+  .nurse_input.past_input.other_in {
+    width: 50%;
+  }
+  .nurse_input label {
+    font-size: 14px;
+    padding: 0 0 0 55px;
+  }
+  .nurse_input.past_input {
+    width: 50%;
+    padding: 0 0 5px;
+  }
+  .main-div {
+    margin: 10px 0;
+    padding: 0 7px 20px;
+  }
+  .nurse_input.mus_input {
+    width: 100%;
+  }
+  .custom_input {
+    width: 20%;
+  }
+  label.cal_head {
+    display: inline;
+  }
+  .nurse_input.past_input.food_nur label {
+    padding: 0 0 0 41px;
+    width: auto;
+  }
+  .other_txt {
+    margin-left: 0px;
+  }
+  button.btn.btn-primary.create_btn {
+    padding: 5px 17px;
+  }
+  .nurse_input.cal_radio .custom_input {
+    width: 30%;
+  }
+  .nurse_input.cal_radio label {
+    width: auto;
+  }
+  .ac {
+    padding: 0 5px;
+  }
+  .nurse_input.doct_vi:last-child {
+    width: 50%;
+  }
+  .nurse_input.doct_vi label:last-child {
+    width: 100%;
+  }
+  .nurse_input.past_input:last-child {
+    width: 50%;
+  }
+  .nurse_input.cal_radio .check {
+    left: 12px;
+  }
+  .nurse_input.cal_radio.scroll .custom_input {
+    width: 11%;
+  }
+  .nurse_input.gen_his {
+    width: 100%;
+  }
+  .nurse_input.full-width1 .other_txt1 {
+    width: 90%;
+  }
+  .diag_input input[type="text"] {
+    width: 65%;
+  }
+  #field input {
+    width: 65%;
+  }
+  .create_btn.ad_btn_save {
+    margin-bottom: 10px !important;
+  }
+  .ad_save.diagnosis_head {
+    padding-top: 10px;
+    text-align: right;
+  }
+  .nurse_input.gen_say {
+    width: 50%;
+  }
+  a.btn.btn-primary.create_btn.ad_btn_save {
+    padding: 10px 7px;
+  }
+  .dia_add_btn {
+    padding: 0;
+  }
+  .sidebar-mini.sidebar-collapse .dsticky.fixed {
+    position: fixed;
+    top: 60px;
+    width: 97%;
+    z-index: 11;
+    overflow: scroll;
+  }
+  .sidebar-mini.sidebar-collapse .dsticky {
+    z-index: 11;
+    overflow: scroll;
+  }
+  .nurse_input.past_input.systemic_in,
+  .nurse_input.mus_input.systemic_in {
+    width: 100% !important;
+  }
+  .nurse_input.doct_vi.systemic_in {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+  .nurse_input.doct_vi.systemic_in label {
+    padding: 0 0 0 20px !important;
+    width: auto !important;
+  }
+  table.table-responsive.rs_table {
+    max-width: 100%;
+  }
+  .nurse_input.past_input:last-child label {
+    width: auto;
+  }
+  .nurse_input.pos_sys {
+    width: 100% !important;
+  }
+  .nurse_input.reflx_input {
+    width: 50%;
+  }
+  .chief_tab.chief_size1 {
+    width: 100%;
+    overflow: scroll !important;
+    white-space: nowrap;
+    min-width: 800px;
+    float: left;
+    height: auto;
+    position: relative;
+    display: -webkit-inline-box;
+  }
+  .chief_tab.chief_size {
+    width: 100%;
+    overflow: scroll;
+    white-space: nowrap;
+    min-width: 850px;
+  }
+  .chief_tab.chief_high {
+    overflow: scroll !important;
+    white-space: nowrap;
+    min-width: 800px;
+    float: left;
+    height: auto;
+    position: relative;
+    display: -webkit-inline-box;
+  }
+  .nurse_input.rs_td input[type="checkbox"] + label {
+    padding: 0;
+    font-size: 12px;
+  }
+  .other_sticky.doc_sticky,
+  .other_sticky.sticky {
+    overflow: scroll;
+  }
+  .chief_tab1 {
+    background: #fbfbfb;
+    overflow: scroll;
+    white-space: nowrap;
+    width: 600px;
+  }
+  .save-btn.dia_fav_btn {
+    text-align: right;
+  }
+  button.search_btn_dia_fav {
+    margin-bottom: 10px;
+  }
+  .project-tab.add_notes {
+    padding: 0;
+  }
+  .add_more_notes {
+    padding: 0 10px;
+  }
+  .nurse_input.gen_say.add_notes {
+    width: 100%;
+  }
+  .nurse_input.gen_say.add_notes:last-child label.nurse_other.nur,
+  .nurse_input.add_nots:last-child label.nurse_other.nur {
+    padding: 0 15px;
+  }
+  .nurse_input.past_input.systemic_in.lst label.nurse_other.nur {
+    padding: 0 0 0 15px;
+  }
+  .add_notes_tab {
+    padding: 0;
+  }
+  .inner_div {
+    padding: 10px;
+  }
+  .nurse_input.gen_say:last-child label.nurse_other.nur {
+    padding: 0 0 0 15px;
+  }
+  .nurse_input:last-child label.nurse_other.nur.check_part {
+    padding: 0 0 0 15px;
+  }
+  .nurse_input:last-child label.color_type {
+    padding: 0;
+  }
+  .search_dia_in input[type="text"] {
+    width: 80%;
+  }
+  .search_dia_in input.first_input {
+    width: 66%;
+  }
+  .nurse_input.add_nots1 {
+    width: 100%;
+  }
+  .nurse_input.gen_say.add_notes1 {
+    width: 50%;
+  }
+  .nurse_input.last_laber:last-child label.nurse_other.nur {
+    width: auto;
+    padding: 0 0 0 15px;
+  }
+  input.form-control-nur.form-control.last_control_in {
+    width: 34%;
+  }
+  .nurse_input label.nurse_other.nur.nabor_note {
+    padding: 0 0 0 15px;
+  }
+  .nurse_input.bbay_input {
+    min-width: 50% !important;
+  }
+  .nurse_input.gen_say.birth_in {
+    width: 100%;
+  }
+  .nurse_input.gen_his.birth_input label {
+    width: 80%;
+  }
+  .nurse_input.add_nots1.birth_note input.other_txt1 {
+    width: 35%;
+  }
+  .nurse_input.add_nots1.bi_in label {
+    width: 75%;
+  }
+  .nurse_input.gen_say.add_notes.birth_note1 label {
+    width: auto;
+    padding-left: 47px;
+  }
+  .project-tab.past_his {
+    padding: 0 8px;
+  }
+  .nurse_input.past_input.other_in1 {
+    width: 100%;
+  }
+  .nurse_input.past_input.his_last {
+    width: 100%;
+  }
+  .nurse_input.res_pst {
+    width: 100%;
+  }
+  .nurse_row.weight_row.myDiv.imired_row {
+    padding-left: 0;
+  }
+  button.btn.btn-primary.create_btn {
+    padding: 9px 37px;
+  }
+  .quantity.fundal_num input {
+    width: 20%;
+  }
+  table.table-responsive.rs_table.right_hypo {
+    max-width: 100%;
+    vertical-align: middle;
+  }
+  .nurse_other.screenothr {
+    padding: 0 0 0 40px !important;
+  }
+  label.nurse-form-label.date_labor {
+    width: 70%;
+  }
+  input.other_txt1.gns_txt {
+    width: 25%;
+  }
+
+  .nurse_input.past_input.systemic_in1 {
+    width: 100%;
+  }
+  .nurse_input.nero_in {
+    width: 100%;
+  }
+  .nurse_input.past_input.systemic_in1.teat_last label {
+    padding-left: 65px;
+  }
+  .mother_top {
+    padding-bottom: 10px;
+  }
+  .quantity.doc_qu.heart_rate1 input {
+    width: 21%;
+  }
+  button.genrate_btn {
+    margin-bottom: 10px;
+    padding: 0.4em 1em;
+    font-size: 14px;
+  }
+  .logo img {
+    width: 51px;
+    text-align: center;
+  }
+  .join {
+    width: 63%;
+    font-size: 16px;
+  }
+  div#myHeader .logo {
+    width: auto;
+    padding: 0 0 0 10px;
+  }
+}
+
+@media (max-width: 460px) {
+  .doct_vi {
+    width: 50%;
+  }
+  .nurse_input.cal_radio:last-child .cal_label.out_radio {
+    width: auto;
+  }
+  .nurse_input.cal_radio:last-child label.cal_label.space_lab {
+    width: auto;
+    float: none !important;
+  }
+  .nurse_input:last-child {
+    width: 100%;
+  }
+  .nurse_input.other_in.imp_nur {
+    width: 50%;
+  }
+  .select.custom_Select_create {
+    padding: 2px;
+  }
+  .project-tab .nav-link {
+    font-size: 12px;
+    border-bottom: 1px solid #f3f3f3;
+  }
+  .nurse_input label {
+    width: 58%;
+  }
+  .project-tab .nav-link {
+    font-size: 11px;
+    font-weight: 300;
+  }
+  .nurse_input.past_input.female_apt {
+    width: 48%;
+  }
+  .nurse_input label {
+    padding: 0 0 0 25px;
+  }
+  .nurse_input.past_input label {
+    width: 70%;
+  }
+  .nurse_input label {
+    padding: 0 0 0 12px;
+  }
+  .nurse_input.past_input label {
+    padding: 0 0 0 20px;
+  }
+  .nurse_input.doct_vi label {
+    padding: 0 0 0 44px !important;
+    width: 100% !important;
+  }
+  .nurse_input.food_nur label {
+    padding: 0 0 0 45px;
+    width: auto;
+  }
+  .nurse_input.cal_radio.scroll label {
+    padding: 0 0 0 49px !important;
+  }
+  label.cal_label.out_radio {
+    padding: 0;
+  }
+  .nurse_input:last-child label {
+    padding: 0 0 0 47px;
+    width: 27%;
+    float: left;
+  }
+  .nurse_input.doc_input:last-child label {
+    width: 100% !important;
+  }
+  .nurse_input.food_nur:last-child label {
+    width: auto;
+  }
+  .nurse_input:last-child label {
+    width: auto;
+  }
+  .nurse_input.past_input.female_apt label {
+    padding: 0 0 0 21px;
+  }
+  .nurse_input.past_input.female_apt:last-child label {
+    padding: 0 0 0 43px;
+  }
+  .nurse_input.past_input .other_txt {
+    margin-left: 3em;
+  }
+  .nurse_input.drug_in label {
+    padding: 0 0 0 46px;
+    width: auto;
+  }
+  .nurse_input.cal_radio:last-child .cal_label.out_radio {
+    padding: 0;
+  }
+  .nurse_input.cal_radio .custom_input {
+    width: 27%;
+  }
+  .diag_input input[type="text"] {
+    width: 100%;
+  }
+  #field input {
+    width: 100%;
+  }
+  .nurse_input.cal_radio.scroll .custom_input {
+    width: 44%;
+  }
+  .nurse_input.cal_radio.scroll:last-child {
+    float: none !important;
+  }
+  .nurse_input.cal_radio.scroll:last-child label {
+    float: none !important;
+  }
+  .nurse_input.cal_radio.scroll.pal_imput label {
+    padding-bottom: 0 !important;
+  }
+  .nurse_input.cal_radio.scroll.pal_imput .custom_input {
+    width: 64%;
+  }
+  .nurse_input.past_input1 {
+    width: 100%;
+  }
+  .search_dia_in input.last_pain {
+    width: 28% !important;
+  }
+  .search_dia_in input[type="text"] {
+    width: 70%;
+  }
+  .search_dia_in input.first_input {
+    width: 46%;
+  }
+
+  input.other_txt.responscive {
+    width: 35%;
+  }
+  .nurse_input.post_ans label {
+    padding: 0 0 0 47px;
+    width: auto;
+  }
+  label.cal_label.space_lab.responsive {
+    font-size: 14px;
+    padding: 0 0 0 44px !important;
+  }
+  .nurse_input label.nurse_other.past_gyna {
+    padding: 0 0 0 45px;
+    float: left;
+    width: auto;
+  }
+  .nurse_input.pre_ans_notes.new_add {
+    width: 100%;
+  }
+  .nurse_row.weight_row.custom_res {
+    width: 100%;
+    height: auto;
+    float: left;
+  }
+  .nurse_input.sign_in {
+    width: 100% !important;
+    min-width: 100% !important;
+  }
+  .nurse_input.sign_in label {
+    width: 79%;
+  }
+  .nurse_input.gen_say {
+    width: 100%;
+  }
+  .nurse_input.score_note .nurse_other {
+    width: 20%;
+  }
+  button.btn.btn-primary.create_btn {
+    padding: 9px 30px;
+  }
+  label.nurse_other.vital_label {
+    width: auto !important;
+  }
+  label.nurse-form-label.date_labor {
+    width: 100%;
+  }
+  .nurse_input.past_input.systemic_in1 label {
+    padding: 0;
+  }
+  input.form-control-nur.form-control.last_control_in {
+    width: 55%;
+  }
+  .nurse_input.imm_inner {
+    width: 50%;
+  }
+  .nurse_input.treat_erx {
+    width: 50%;
+  }
+  .nurse_input.gen_say.input_type2.unit_type {
+    width: 50%;
+  }
+  .nurse_input.unit_input {
+    width: 100%;
+  }
+  .row.unit_2 {
+    width: 100%;
+  }
+  .row.controls.unit_inner {
+    width: 100%;
+  }
+}
+@media (max-width: 360px) {
+  .nurse_input.cal_radio.scroll .custom_input {
+    width: 20%;
+  }
+}
+
+/** Drug and insurance management related css.!*/
+.drug-list {
+  display: contents;
+}
+
+.th-pd {
+  padding: 15px 10px !important;
+}
+
+table.table-insurance-inner tbody tr td {
+  padding: 10px 15px;
+}
+
+.add-drug-btn,
+.add-insurance-btn {
+  float: right;
+  margin-right: 10px;
+}
+
+.drug-ins-action {
+  font-size: 20px;
+}
+
+.modal-header {
+  background-color: #44cbc0;
+  color: white;
+}
+
+/* .nur_view_box {
+  padding-left: 20px;
+} */
+
+.data-table {
+  padding: 0px;
+  margin-top: 5px;
+}
+
+.hidden-checkbox {
+  display: none !important;
+}
+
+.investigation-tab-content {
+  margin-top: 20px;
+}
+.ad_btn_save_investigation {
+  margin: 10px !important;
+}
+
+.ng-select-container {
+  height: 40px !important;
+}
+
+.ng-select {
+  line-height: 15px !important;
+}
+
+/* Custome css for view profile */
+.profile_personal {
+  width: 100%;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.15);
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+label.profile.name {
+  font-size: 15px;
+  color: #000;
+  line-height: 2.4;
+}
+h2.profile_title {
+  font-size: 17px;
+  color: #fff;
+  padding: 10px;
+  background: #44cbc0;
+  width: 225px;
+  text-align: center;
+}
+h2.profile_title:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent;
+  border-bottom: 19px solid transparent;
+  border-left: 20px solid #44cbc0;
+  top: 0%;
+  left: 225px;
+}
+.profile_title_sign {
+  position: relative;
+  width: 100%;
+  margin: 15px 0;
+}
+.profile_title_sign:after {
+  position: absolute;
+  content: "";
+  width: calc(100% - 238px);
+  height: 2px;
+  background: #44cbc0;
+  top: 48%;
+  right: 0;
+}
+.profile_page {
+  margin: 0 20px;
+}
+label.profile_label {
+  font-size: 17px;
+  line-height: 2.4;
+  color: #031918;
+}
+.profile_dign_inner {
+  padding: 7px 15px;
+}
+label.profile.name {
+  font-size: 17px;
+  color: #000;
+  line-height: 2.4;
+}
+ul.check_profile li {
+  color: #031918;
+  line-height: 2.5;
+  font-size: 15px;
+  position: relative;
+}
+ul.check_profile li:before {
+  content: "\f00c";
+  top: 0%;
+  left: 0;
+  font-family: FontAwesome;
+  color: #44cbc0;
+  padding-right: 10px;
+}
+ul.check_profile li.no_answer:before {
+  content: "\f061";
+  top: 0%;
+  left: 0;
+  font-family: FontAwesome;
+  color: #44cbc0;
+  padding-right: 10px;
+}
+ul.check_profile.profile_hralth li {
+  font-size: 17px;
+  color: #123434;
+}
+
+/** Shoping cart **/
+
+input.cus_input {
+  width: 50%;
+  background: transparent;
+  border: 0;
+  color: #2d2d2d;
+  border-bottom: 1px solid #000;
+  border-bottom-style: dashed;
+  padding: 0 5px;
+}
+div#page-wrap {
+  background: #fff;
+}
+#header_title_in {
+  width: 100%;
+  margin: 20px 0;
+  background: #00a8b2;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  text-decoration: uppercase;
+  letter-spacing: 4px;
+  padding: 8px 0px;
+}
+.invoice_table {
+  border-collapse: collapse;
+}
+.invoice_table td,
+.invoice_table th {
+  border: 1px solid black;
+  padding: 5px;
+}
+#address_edit {
+  font-weight: normal;
+  padding: 0 32px;
+  font-size: 14px;
+  color: #000;
+  line-height: 1.6;
+}
+#customer {
+  overflow: hidden;
+}
+span.address_head {
+  line-height: 2.6;
+  font-weight: 600;
+  font-size: 15px;
+  border-bottom: 3px solid #000;
+}
+#logo_invoice {
+  width: 100%;
+  padding: 0 35px;
+  overflow: hidden;
+}
+#logo_invoice img {
+  width: 100px;
+}
+#customer-title {
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+}
+.bill_to {
+  font-size: 14px;
+  color: #000;
+  padding: 0 17px;
+}
+#meta {
+  margin-top: 1px;
+  width: 300px;
+  float: right;
+}
+#meta td {
+  text-align: right;
+}
+#meta td.meta-head {
+  text-align: left;
+  background: #eee;
+}
+#meta td textarea {
+  width: 100%;
+  height: 20px;
+  text-align: right;
+}
+.bill_name {
+  font-size: 13px;
+  font-weight: 600;
+  padding-bottom: 3px;
+}
+.bill_name span {
+  font-weight: 400;
+}
+tr.item-row td {
+  border: 1px solid #e2e2e2 !important;
+  padding: 5px;
+}
+#items {
+  table-layout: fixed;
+  clear: both;
+  width: 100%;
+  margin: 30px 0 0 0;
+  border: 1px solid #00a8b2;
+}
+#items th {
+  background: #00a8b2;
+  padding: 7px;
+  color: #fff;
+}
+#items textarea {
+  width: 80px;
+  height: 50px;
+}
+#items tr.item-row td {
+  border: 0;
+  vertical-align: top;
+}
+#items td.description {
+  width: 300px;
+}
+#items td.item-name {
+  width: 175px;
+}
+#items td.description textarea,
+#items td.item-name textarea {
+  width: 100%;
+}
+#items td.total-line {
+  border-right: 0;
+  text-align: right;
+}
+#items td.total-value {
+  border-left: 0;
+  padding: 10px;
+}
+#items td.total-value textarea {
+  height: 20px;
+  background: none;
+}
+#items td.balance {
+  background: #eee;
+}
+#items td.blank {
+  border: 0;
+}
+#items tr td textarea {
+  border: 0;
+}
+#terms {
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+#terms h5 {
+  text-transform: uppercase;
+  font: 13px Helvetica, Sans-Serif;
+  letter-spacing: 10px;
+  border-bottom: 1px solid black;
+  padding: 0 0 8px 0;
+  margin: 0 0 8px 0;
+}
+.item-row td input {
+  border: 0;
+  background: transparent;
+  width: 100%;
+  height: 53px;
+}
+.phn_btn_more {
+  margin-top: 20px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50% !important;
+  padding: 0;
+  cursor: pointer;
+  font-size: 13px;
+  border-radius: 0.25em;
+  color: #fff;
+  vertical-align: middle;
+}
+tr.item-row.bottom_row {
+  background: #f3f3f3;
+  color: #000;
+  vertical-align: text-top !important;
+}
+tr.item-row.bottom_row td {
+  border: 1px solid #b5b5b5 !important;
+}
+input.form-control.erx_sale {
+  width: 88%;
+  float: left;
+}
+@media (max-width: 1000px) {
+  #items {
+    table-layout: auto;
+    /* white-space: nowrap; */
+    width: 1000px;
+    overflow-x: scroll;
+  }
+  #items td.item-name {
+    width: 20px;
+  }
+  .structure--table td:nth-child(2), .structure--table td:nth-child(3), .structure--table td:nth-child(4), .structure--table td:nth-child(5), .structure--table td:nth-child(6), .structure--table td:nth-child(7), .structure--table td:nth-child(8), .structure--table td:nth-child(9) {
+    width: auto;
+    min-width: 80px;
+  }
+}
+
+.action-shared-table {
+  text-align: center;
+  font-size: 15px;
+}
+
+.form-control-temp {
+  height: calc(1.5rem + 7px);
+  padding: 2px !important;
+}
+
+.action-shared-table > a {
+  padding-left: 5px;
+}
+
+.shared-table > .table-responsive thead th {
+  padding: 0.75rem !important;
+}
+
+.treatment-tab-content-div {
+  padding-left: 0px !important;
+  margin-left: 0px !important;
+}
+
+.project-tab .treatment-nav-link {
+  width: 25%;
+  font-size: 14px;
+}
+
+.phn_btn_more_customer {
+  margin-top: 0px !important;
+}
+
+.erxorlab_details {
+  margin-top: 20px;
+}
+
+
+.invoice_control td input[type=number]::-webkit-inner-spin-button, 
+.invoice_control td input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.invoice_control td input {
+  background: #fff;
+}
+
+.custom_otp_label{
+  justify-content: center;
+}
+.margin_auto_center{
+  margin: 0 auto;
+}
+.verify_otp_input{
+  text-align: center;
+    font-size: 37px;
+    height: 51px;
+    border: 1px dotted #36968e;
+}
+.verify_otp_btn{
+  margin-top: 10%;
+}
+.congratuate_lable{
+  font-weight: bold;
+  font-size: 46px !important;
+  color: #008E97 !important;
+}
+.success_otp_label{
+  font-size: 20px;
+   text-align: center;
+}
+.custom_urn input[type=text]{
+  justify-content: center;
+    float: left;
+    width: 80% !important;
+    color: #000 !important;
+    border:4px dotted #36968e !important;
+    
+}
+.custom_urn button{
+
+  float: right !important;
+  width: 17% !important;
+  height: 50px !important;
+  text-align: center !important;
+  font-weight: bold !important;
+  background: #fff !important;
+    border: 1px solid #44cbc0 !important;
+}
+.custom_urn button :hover{
+  background-color: gray !important;
+  cursor: pointer !important;
+}
+.input_error{
+   border: 1px solid red !important;
+    background: #fff !important;
+}
+
+/* login css */
+.radio-toolbar input[type="radio"] {
+  opacity: 0;
+  position: fixed;
+  width: 0;
+}
+.radio-toolbar label {
+  display: inline-block;
+  background-color: #fff;
+  font-family: sans-serif, Arial;
+  text-align: center;
+  border-radius: 4px;
+  margin-right: 25px;
+  margin-left: 11px;
+  width: 120px;
+  border: 2px solid #00a8b2 !important;
+  border-radius: 15px;
+}
+.radio-toolbar input[type="radio"]:checked + label {
+  background-color:#00a8b2  !important;
+  border-color:#fff;
+  color: #fff;
+}
+.radio-toolbar input[type="radio"]:focus + label {
+  border: 2px dashed #00a8b2 !important;
+  border-color:#00a8b2 !important;
+  cursor: pointer;
+}
+.radio-toolbar label:hover {
+  background-color: #dfd;
+}
+
+/*Header Component*/
+/* @import url("https://fonts.googleapis.com/css?family=Alatsi|Josefin+Sans:300,400,600,700&display=swap"); */
+
+.btn-primary-r {
+	background-color: #00a8b2;
+	border-color: #00a8b2;
+	border-radius: 50px;
+	color: #fff;
+}
+
+.btn-primary-dark-r {
+	background-color: #204844;
+	border-color: #204844;
+	border-radius: 50px;
+}
+
+.navbar-brand {
+	width: 50px;
+}
+
+.navbar-white {
+	background-color: #fff;
+}
+
+.section-pad {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.section-about-image {
+	position: relative;
+}
+
+.section-price {
+background-image: url(https://image.freepik.com/free-vector/snowflake-x-mas-knitting-seamless-repeating-pattern-background-illustration_41774-10.jpg);
+	background-size: 106px;
+}
+
+.plan-item {
+	text-align: center;
+	box-shadow: 0px 14px 12px #aaa;
+	margin-bottom: 30px;
+}
+
+.plan-item .plan-header, .plan-item .plan-footer {
+	padding: 25px;
+}
+
+.plan-item .plan-header {
+	background-color: #161716;
+	color: #eee;
+	border-top-left-radius: 15px;
+}
+
+.plan-item .plan-footer {
+	border-radius: 0 0 15px;
+	background-color: #fff;
+}
+
+.plan-item .plan-price {
+	font-size: 100px;
+	color: #9a7c22;
+}
+
+.plan-item .plan-price-sign {
+	font-size: 50px;
+	color: #9a7c22;
+}
+
+.plan-item .plan-title {
+	font-size: 30px;
+	font-weight: 200;
+}
+
+.top-navbar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #61cbc1;
+}
+
+.top-navbar .top-help-links {
+	display: flex;
+	margin-bottom: 0;
+	color: #fff;
+	font-size: 16px;
+}
+
+.top-navbar .top-help-links li {
+	margin-right: 20px;
+}
+
+.top-navbar .top-help-links li i {
+	margin-right: 5px;
+}
+
+.language-picker {
+	width: 150px;
+	height: 26px !important;
+	color: #fff;
+}
+
+.language-picker:focus {
+	background-color: transparent;
+}
+
+.d-logo {
+	/* //background-image: url(/assets/images/d-logo.png); */
+	width: 70px;
+	background-size: 50px;
+	height: 70px;
+	position: absolute;
+	top: calc( 50% - 35px);
+	border-radius: 100px;
+	background-color: #ffffff;
+	background-position: center;
+	background-repeat: no-repeat;
+	right: -35px;
+	box-shadow: 7px 0px 4px #999;
+}
+
+.section-slider {
+	height: 500px;
+	font-family: 'Josefin Sans', sans-serif;
+	background-position: center;
+	background-size: cover;
+	/* //background-image: url("/assets/images/slide1-2.jpg"); */
+}
+
+.section-slider .container {
+	height: 100%;
+}
+
+.section-slider .row {
+	height: 100%;
+}
+
+.section .section-top-tag {
+	color: #555;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.section .section-main-tag {
+	font-weight: 700;
+	color: #61cbc1;
+}
+
+.section .section-bottom-tag {
+	color: #295f5a;
+	font-size: 16px;
+}
+
+.section-department {
+	background-color: #d3e6f1;
+	/* //background-image: url(/assets/images/deportment-bg-2.jpg); */
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.section-department .service-item {
+	border-radius: 5px;
+	background-color: rgba(255, 255, 255, 0.7);
+	margin-bottom: 30px;
+	padding: 25px;
+	text-align: center;
+}
+
+.section-department .service-item .service-logo {
+	margin-bottom: 25px;
+}
+
+.section-department .service-item .service-logo img {
+	background-color: #d3e5f173;
+	border-radius: 100%;
+	padding: 26px;
+	width: 130px;
+	box-shadow: 0px 8px 9px #bbb;
+}
+
+.section-intero-image img {
+	border-radius: 5px;
+}
+
+.h-100-p {
+	height: 100%;
+}
+
+.ml-20 {
+	margin-left: 20px;
+}
+
+.mb-50 {
+	margin-bottom: 50px;
+}
+
+.text-black {
+	color: #111 !important;
+}
+
+.text-black-light {
+	color: #333 !important;
+}
+
+.doctor-signature img {
+	width: 125px;
+}
+
+.intero-high-lights {
+	display: flex;
+	margin-top: 30px;
+}
+
+.intero-high-lights li {
+	display: flex;
+	align-items: center;
+	padding-right: 20px;
+}
+
+.intero-high-lights li span {
+	color: #61cbc1;
+	font-size: 30px;
+}
+
+.intero-high-lights li h6 {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.footer-section {
+	background-color: #131716;
+	color: #fff;
+	font-weight: 200;
+}
+
+.footer-section .footer-header {
+	margin-bottom: 25px;
+}
+
+.footer-section .footer-link a {
+	color: #fff;
+	font-size: 15px;
+	margin-bottom: 7px;
+	display: block;
+}
+
+.footer-section .footer-address li {
+	font-size: 17px;
+	display: flex;
+	align-items: center;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
+.footer-section .footer-address li i {
+	position: absolute;
+	left: 17px;
+}
+
+.footer-bottom {
+	background-color: black;
+	color: #aaa;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.footer-social-links {
+	display: flex;
+	align-items: center;
+}
+
+.footer-social-links li {
+	margin-right: 15px;
+	font-size: 22px;
+}
+
+@media screen and (max-width: 767px) {
+	.mb-sm-30 {
+		margin-bottom: 30px;
+	}
+}
